@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <string name="selected_country">you just selected %1$s as country %2$s.</string>
+    <string name="amount_unfilled">Please input nominal that you want to convert</string>
+    <string name="source_country_not_selected">Please select source country from drop down icon</string>
+    <string name="destination_country_not_selected">Please select destination country from drop down icon</string>
+</resources>
